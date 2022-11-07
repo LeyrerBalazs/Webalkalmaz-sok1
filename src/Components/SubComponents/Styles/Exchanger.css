@@ -1,0 +1,26 @@
+div.ExchangerClass {
+    margin-top: 50px;
+    width: 1000px;
+    height: 500px;
+    text-align: left;
+}
+div.first {
+    width: 1000px;
+    height: 100px;
+    text-align: left;
+}
+div.sub {
+    margin-top: 20px;
+    width: 1000px;
+    height: 70px;
+    text-align: left;
+}
+img.firstimg {
+    height: 90px;
+    width: 90px;
+}
+button, input {
+    vertical-align: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
