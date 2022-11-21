@@ -1,0 +1,24 @@
+.box {
+    width: 800px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    margin: auto;
+}
+h1
+{
+    color: yellow;
+    background-color: blue;
+}
+p {
+    background-color: blue;
+    color: white;
+}
+.container2 {
+    margin: auto;
+    padding-left: 650px;
+    padding-right: 650px;
+}
+.Link {
+    margin-left: 50px;
+}
